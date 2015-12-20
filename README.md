@@ -1,2 +1,2 @@
-# game-km
+# softuni-km
 readme
